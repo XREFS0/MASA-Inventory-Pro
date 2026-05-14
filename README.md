@@ -26,13 +26,6 @@
 
 ---
 
-## 📸 System Interface
-
-> **Note:** *[You can drop a screenshot or a GIF of your Guna UI dashboard here]*
-> 
-> `<img src="link_to_your_image.png" alt="MASA Inventory Dashboard" width="100%">`
-
----
 
 ## 🛠️ Technology Stack
 
