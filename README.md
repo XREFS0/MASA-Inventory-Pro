@@ -1,70 +1,75 @@
 <div align="center">
 
+<img src="https://via.placeholder.com/150/5D3FD3/FFFFFF?text=MASA+Logo" alt="MASA Inventory Pro Logo" width="120" height="120" />
+
 # 📦 MASA Inventory Pro
 
-**A high-performance, professional-grade Inventory Management System.**
+**A Next-Generation, High-Performance Inventory Management System.**
 
-[![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)](#)
-[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)](#)
-[![Guna UI2](https://img.shields.io/badge/UI-Guna_UI2-blueviolet?style=flat-square)](#)
-[![License: Copyright](https://img.shields.io/badge/License-Copyright_©_2026-blue.svg?style=flat-square)](#)
+[![Made with C#](https://img.shields.io/badge/C%23-.NET_4.7.2-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
+[![Powered by SQLite](https://img.shields.io/badge/SQLite-Local_DB-07405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](#)
+[![UI Framework](https://img.shields.io/badge/UI-Guna_UI2-blueviolet?style=for-the-badge)](#)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)](#)
+
+*Engineered by **Mohamed Mamdouh** to provide a seamless, premium experience for managing stock, sales, and complex data analytics.*
 
 </div>
 
-> **MASA Inventory Pro** is built with C# and SQLite, featuring a stunning, modern dark theme powered by Guna UI2. It provides a seamless and premium experience for managing stock, sales, and complex data analytics.
+---
+
+## 📑 Table of Contents
+
+- [About the Project](#-about-the-project)
+- [Key Features](#-key-features)
+- [System Interface](#-system-interface)
+- [Getting Started](#-getting-started)
+- [Technology Stack](#️-technology-stack)
+- [Connect with the Developer](#-connect-with-the-developer)
+
+---
+
+## 📖 About the Project
+
+**MASA Inventory Pro** is an enterprise-grade desktop application designed to streamline business operations. Built entirely with C# and optimized with a lightweight SQLite database, it features a stunning, deeply integrated dark theme powered by Guna UI2. It replaces chaotic spreadsheet management with a robust, visual, and secure environment.
 
 ---
 
 ## 🚀 Key Features
 
-* **📊 Advanced Dashboard:** Real-time business analytics with dynamic gradient charts and live statistics.
-* **📦 Product Management:** Full-scale inventory control equipped with barcode support, deep category filtering, and automated stock alerts.
-* **💰 Sales Tracking:** Modern order processing architecture with real-time stock reconciliation and comprehensive history management.
-* **🧹 Mass Actions:** Innovative "Delete All" functionality for bulk data resets, secured with multi-level confirmations.
-* **✨ Premium UI/UX:** Royal Purple dark theme, smooth fade animations, and a polished, professional splash screen.
-* **💾 Secure Data:** Automated local SQLite database integration with highly efficient, built-in backup tools.
+* **📊 Advanced Analytics Dashboard:** * Real-time business insights.
+  * Dynamic gradient charts and live operational statistics.
+* **📦 Comprehensive Product Management:** * Full-scale inventory control with barcode scanner support.
+  * Deep category filtering and automated low-stock alerts.
+* **💰 Modern Sales Tracking:** * Streamlined point-of-sale (POS) order processing.
+  * Real-time stock reconciliation and complete transaction history.
+* **🧹 Secure Mass Actions:** * Innovative "Delete All" functionality for bulk data resets.
+  * Protected by multi-level security confirmations to prevent accidental data loss.
+* **✨ Premium UI/UX Design:** * Signature **Royal Purple** dark theme.
+  * Smooth fade transitions, hover effects, and a polished splash screen.
+* **💾 Data Security & Integrity:** * Automated local SQLite database integration.
+  * Highly efficient, one-click built-in backup & restore tools.
 
 ---
 
 ## 📸 System Interface
 
-> **Note:** *[You can drop a screenshot or a GIF of your Guna UI dashboard here]*
-> 
-> `<img src="link_to_your_image.png" alt="MASA Inventory Dashboard" width="100%">`
-
----
-
-## 🛠️ Technology Stack
-
-| Component | Technology Used |
-| :--- | :--- |
-| **Language** | C# (.NET Framework 4.7.2) |
-| **Database** | SQLite (Local, high-speed storage) |
-| **UI Framework** | Guna UI2 WinForms (Premium Design System) |
-| **Architecture** | N-Tier Architecture (BLL, DAL, Presentation Layers) |
-
----
-
-## 🌍 Connect with the Developer
-
-Developed by **Mohamed Mamdouh (MR MASA - XREFS0)**. Let's connect:
+> **💡 Pro Tip:** *A picture is worth a thousand words. Add a GIF or High-Res screenshot of your Dashboard here.*
 
 <div align="center">
-
-<a href="https://t.me/XREFS0"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-<a href="https://t.me/XREFS0_CHANNEL"><img src="https://img.shields.io/badge/Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel"></a>
-<a href="https://www.youtube.com/@XREFS0"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-<a href="https://github.com/XREFS0"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/mrmasaofficial"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.facebook.com/MrMasaOfficial"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://www.instagram.com/codewithmasa/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://xrefs0.blogspot.com/"><img src="https://img.shields.io/badge/Official_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger"></a>
-
+  <img src="https://via.placeholder.com/800x450/1e1e1e/8a2be2?text=Dashboard+Screenshot+Here" alt="MASA Inventory Pro Dashboard" width="100%" />
 </div>
 
 ---
 
-## 📜 License
+## ⚙️ Getting Started
 
-© 2026 **MASA Inventory Pro**. All Rights Reserved.  
-*Engineered for high-efficiency business management.*
+To get a local copy up and running, follow these simple steps.
+
+### Prerequisites
+* Windows OS (10 or 11 recommended)
+* [.NET Framework 4.7.2](https://dotnet.microsoft.com/download/dotnet-framework/net472) or higher
+
+### Installation
+1. Clone the repo or download the release.
+   ```sh
+   git clone [https://github.com/XREFS0/MASA-Inventory-Pro.git](https://github.com/XREFS0/MASA-Inventory-Pro.git)
